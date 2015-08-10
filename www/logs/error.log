@@ -1,0 +1,11 @@
+[Wed Jun 10 09:57:37.343159 2015] [core:error] [pid 11514:tid 140007335520000] [client 23.244.200.105:45821] AH00126: Invalid URI in request GET HTTP/1.1 HTTP/1.1
+[Thu Jun 18 00:13:42.007088 2015] [:error] [pid 61718:tid 140007209629440] [client 68.200.22.87:52974] mod_wsgi (pid=61718): Exception occurred processing WSGI script '/var/www/inventorisito/inventorisito/wsgi.py'.
+[Thu Jun 18 00:13:42.014240 2015] [:error] [pid 61718:tid 140007209629440] [client 68.200.22.87:52974] IOError: failed to write data
+[Thu Jun 18 00:13:42.653031 2015] [:error] [pid 61719:tid 140007209629440] [client 68.200.22.87:52977] mod_wsgi (pid=61719): Exception occurred processing WSGI script '/var/www/inventorisito/inventorisito/wsgi.py'.
+[Thu Jun 18 00:13:42.653146 2015] [:error] [pid 61719:tid 140007209629440] [client 68.200.22.87:52977] IOError: failed to write data
+[Thu Jun 18 00:16:15.612227 2015] [:error] [pid 61719:tid 140007184451328] [client 68.200.22.87:53092] mod_wsgi (pid=61719): Exception occurred processing WSGI script '/var/www/inventorisito/inventorisito/wsgi.py'.
+[Thu Jun 18 00:16:15.612357 2015] [:error] [pid 61719:tid 140007184451328] [client 68.200.22.87:53092] IOError: failed to write data
+[Sun Jun 21 16:08:16.190936 2015] [:error] [pid 2880:tid 140007293556480] [client 68.200.22.87:64960] mod_wsgi (pid=2880): Exception occurred processing WSGI script '/var/www/inventorisito/inventorisito/wsgi.py'.
+[Sun Jun 21 16:08:16.191072 2015] [:error] [pid 2880:tid 140007293556480] [client 68.200.22.87:64960] IOError: failed to write data
+[Sun Jun 21 16:08:16.782098 2015] [:error] [pid 2879:tid 140007259985664] [client 68.200.22.87:64961] mod_wsgi (pid=2879): Exception occurred processing WSGI script '/var/www/inventorisito/inventorisito/wsgi.py'.
+[Sun Jun 21 16:08:16.782245 2015] [:error] [pid 2879:tid 140007259985664] [client 68.200.22.87:64961] IOError: failed to write data

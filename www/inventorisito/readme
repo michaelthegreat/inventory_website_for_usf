@@ -1,0 +1,17 @@
+This app was made with django 1.8
+
+The  user defined database is defined in var/www/inventorisito/items/models.py
+
+Static files (css and images) go here --> /var/www/inventorisito/inventorisito/static/
+
+Templates go here --> /var/www/inventorisito/inventorisito/templates/
+    
+Use the admin page to add items manually to the database
+	the admin page is customizable
+	while developing do not stay logged into the admin or the server wont update itself
+
+
+The app uses django's allauth package to integrate social media accounts
+  allauth handles the registration, account profiles and profiles of users
+
+
